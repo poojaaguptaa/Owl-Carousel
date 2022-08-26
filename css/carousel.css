@@ -1,0 +1,12 @@
+.our-owl-carousel {float: left; width: 100%;}
+.our-owl-carousel .our-owl-carousel-m {float: left;width: 100%;}
+.card {float: left; text-align: center; position: relative; width: 90%; background: #fff; padding: 10px 10px 10px 10px; }
+.card .imgg img {max-width: 100%; }
+.card .imgg {text-align: center; float: left; width: 100%;}
+.card h6 {text-align: left; float: left; width: 100%; margin: 25px 0 10px 0; font-weight: 600; font-size: 20px; color: #222; }
+.card  p {float: left; width: 100%; padding: 0 0px; font-weight: 400; line-height: 30px; font-size: 16px; text-align: left; color: #585867; }
+.owl-theme .owl-controls .owl-buttons div {color: #fff!important; font-size: 30px!important; -webkit-border-radius: 5px!important; -moz-border-radius: 5px!important; border-radius: 5px!important; background: #000!important; opacity: 1!important; }
+
+@media only screen and (min-width: 200px) and (max-width:  767px){
+.card {width: 100%; }
+}
